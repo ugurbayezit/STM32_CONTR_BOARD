@@ -5,7 +5,7 @@ on the data coming from RFID.
 
 ## Used Components
 
-1.  Stm32F103C8T6 Microprocessor
+1.  Stm32F103C8T6 Microcontroller
 
 2.  MFRC522 RFID Module
 
